@@ -7,7 +7,8 @@
     "icon": "🔧",
     "author": "Suman Biswas",
     "channel": "eDa",
-    "type": "nextjs",
+    "type": "website",
+    "tech": "NextJS",
     "releaseUrl": "https://github.com/sumanbiswas123/SPDFT-Tool/releases/download/extension/BGPatcher.zip"
   },
   {
@@ -19,6 +20,7 @@
     "author": "Suman Biswas",
     "channel": "Web",
     "type": "exe",
+    "tech": "SumJS",
     "releaseUrl": "https://github.com/sumanbiswas123/ScreenSaver/releases/download/extension/screensaver.exe"
   },
   {
@@ -27,9 +29,10 @@
     "description": "A utility designed to converting images between JPG, PNG, and WebP formats with ease.",
     "version": "1.0.0",
     "icon": "🔧",
-    "author": "Suman Biswas",
+    "author": "Arnab Adhikary",
     "channel": "Web",
     "type": "exe",
+    "tech": "Tauri",
     "releaseUrl": "https://github.com/sumanbiswas123/image_converter/releases/download/extension/image-converter-tauri.exe"
   }
 ]
