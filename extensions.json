@@ -20,5 +20,16 @@
     "channel": "Web",
     "type": "exe",
     "releaseUrl": "https://github.com/sumanbiswas123/ScreenSaver/releases/download/extension/screensaver.exe"
+  },
+  {
+    "id": "imageconverter",
+    "name": "Image Converter",
+    "description": "A utility designed to converting images between JPG, PNG, and WebP formats with ease.",
+    "version": "1.0.0",
+    "icon": "🔧",
+    "author": "Suman Biswas",
+    "channel": "Web",
+    "type": "exe",
+    "releaseUrl": "https://github.com/sumanbiswas123/image_converter/releases/download/extension/image-converter-tauri.exe"
   }
 ]
