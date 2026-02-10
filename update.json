@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/sid717/clm-dev-app/releases/latest",
+  "releaseNotes": "Initial release via update mechanism.",
+  "forceUpdate": false,
+  "config": {
+    "enableNewFeature": true,
+    "maintenanceMode": false,
+    "welcomeMessage": "Welcome to OneView!"
+  }
+}
