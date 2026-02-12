@@ -42,9 +42,9 @@
     "version": "1.0.0",
     "icon": "🔧",
     "author": "Arnab Adhikary, Sushruth Iyenger",
-    "channel": "Web",
-    "type": "exe",
-    "tech": "Tauri",
+    "channel": "Email",
+    "type": "website",
+    "tech": "Vite",
     "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/app/Campaign.Builder.zip"
   }
 ]
