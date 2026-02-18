@@ -1,17 +1,5 @@
 [
   {
-    "id": "spdft-tool",
-    "name": "spdft-tool",
-    "description": "The Image Patch & Assembly Tool for patching and processing images.",
-    "version": "1.0.0",
-    "icon": "🔧",
-    "author": "Suman Biswas",
-    "channel": "eDa",
-    "type": "website",
-    "tech": "NextJS",
-    "releaseUrl": "https://github.com/sumanbiswas123/SPDFT-Tool/releases/download/extension/BGPatcher.zip"
-  },
-  {
     "id": "screensaver",
     "name": "ScreenSaver",
     "description": "A utility designed to capture interactive task screenshots and seamlessly produce a final PDF suitable for direct upload.",
