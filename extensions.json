@@ -46,5 +46,17 @@
     "type": "website",
     "tech": "Vite",
     "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/app/SFMC.Builder.zip"
-  }
+  },
+  {
+    "id": "spdft",
+    "name": "SPDFT Builder",
+    "description": "A utility designed to capture interactive task screenshots and seamlessly produce a final PDF suitable for direct upload.",
+    "version": "1.0.0",
+    "icon": "🔧",
+    "author": "Suman Biswas",
+    "channel": "eDA",
+    "type": "next",
+    "tech": "Next",
+    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/app/spdft.zip"
+  },
 ]
