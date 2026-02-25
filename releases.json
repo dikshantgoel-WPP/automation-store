@@ -51,7 +51,7 @@
     "id": "spdft",
     "name": "SPDFT Builder",
     "description": "A utility designed to capture SPDFT task screenshots and seamlessly produce a final Package suitable for direct upload.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icon": "🔧",
     "author": "Suman Biswas",
     "channel": "eDA",
