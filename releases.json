@@ -55,7 +55,7 @@
     "icon": "🔧",
     "author": "Suman Biswas",
     "channel": "eDA",
-    "type": "next",
+    "type": "nextjs",
     "tech": "Next",
     "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/spdft.zip"
   },
@@ -67,7 +67,7 @@
     "icon": "🔧",
     "author": "Vepada Satish, Arnab Adhikary",
     "channel": "Email",
-    "type": "next",
+    "type": "nextjs",
     "tech": "Next",
     "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/pdfmaker.zip"
   },
