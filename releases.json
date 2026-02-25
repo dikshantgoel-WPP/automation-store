@@ -9,7 +9,7 @@
     "channel": "Web",
     "type": "exe",
     "tech": "SumJS",
-    "releaseUrl": "https://github.com/sumanbiswas123/ScreenSaver/releases/download/extension/screensaver.exe"
+    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/screensaver.exe"
   },
   {
     "id": "imageconverter",
@@ -21,7 +21,7 @@
     "channel": "Web",
     "type": "exe",
     "tech": "Tauri",
-    "releaseUrl": "https://github.com/sumanbiswas123/image_converter/releases/download/extension/image-converter-tauri.exe"
+    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/image-converter-tauri.exe"
   },
   {
     "id": "campaignbuilder",
@@ -33,7 +33,7 @@
     "channel": "Email",
     "type": "website",
     "tech": "Vite",
-    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/app/Campaign.Builder.zip"
+    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/Campaign.Builder.zip"
   },
   {
     "id": "sfmcbuilder",
@@ -45,18 +45,42 @@
     "channel": "Email",
     "type": "website",
     "tech": "Vite",
-    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/app/SFMC.Builder.zip"
+    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/SFMC.Builder.zip"
   },
   {
     "id": "spdft",
     "name": "SPDFT Builder",
-    "description": "A utility designed to capture interactive task screenshots and seamlessly produce a final PDF suitable for direct upload.",
+    "description": "A utility designed to capture SPDFT task screenshots and seamlessly produce a final Package suitable for direct upload.",
     "version": "1.0.0",
     "icon": "🔧",
     "author": "Suman Biswas",
     "channel": "eDA",
     "type": "next",
     "tech": "Next",
-    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/app/spdft.zip"
+    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/spdft.zip"
+  },
+  {
+    "id": "pdfmaker",
+    "name": "PDF Maker",
+    "description": "A utility designed to converting HTML to PDF with ease.",
+    "version": "1.0.0",
+    "icon": "🔧",
+    "author": "Vepada Satish, Arnab Adhikary",
+    "channel": "Email",
+    "type": "website",
+    "tech": "Vite",
+    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/pdfmaker.zip"
+  },
+  {
+    "id": "emaillinkgenerator",
+    "name": "Email Link Generator",
+    "description": "A utility designed to converting HTML to PDF with ease.",
+    "version": "1.0.0",
+    "icon": "🔧",
+    "author": "Nagesh",
+    "channel": "Email",
+    "type": "website",
+    "tech": "Vite",
+    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/pdfmaker.zip"
   }
 ]
