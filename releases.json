@@ -82,5 +82,18 @@
     "type": "website",
     "tech": "Vite",
     "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/emaillinkgenerator.zip"
+  },
+  {
+  "id": "presentationbuilder",
+  "name": "Presentation Builder",
+  "description": "An Electron application to create and manage SPDFT and IPDFs efficiently.",
+  "version": "1.1.0",
+  "icon": "🔧",
+  "author": "Arnab Adhikary",
+  "channel": "eDa",
+  "type": "exe",
+  "tech": "Electron",
+  "launchMode": "external",
+  "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/Presentation.Builder.exe"
   }
 ]
