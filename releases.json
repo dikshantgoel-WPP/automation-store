@@ -61,7 +61,7 @@
   },
   {
   "id": "presentationbuilder",
-  "name": "iPDF and SPDFT Builder",
+  "name": "iPDF & SPDFT Builder",
   "description": "An Electron application to create and manage SPDFT and IPDFs efficiently.",
   "version": "1.1.0",
   "icon": "🔧",
