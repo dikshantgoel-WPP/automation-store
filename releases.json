@@ -14,7 +14,7 @@
   {
     "id": "campaignbuilder",
     "name": "Campaign Builder",
-    "description": "A utility designed to converting images between JPG, PNG, and WebP formats with ease.",
+    "description": "An application to build campaigns",
     "version": "1.0.0",
     "icon": "🔧",
     "author": "Sushruth Iyenger",
