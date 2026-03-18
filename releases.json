@@ -37,7 +37,7 @@
   },
   {
     "id": "pdfmaker",
-    "name": "PDF Maker",
+    "name": "Email PDF Maker",
     "description": "A utility designed to converting HTML to PDF with ease.",
     "version": "1.0.0",
     "icon": "🔧",
