@@ -79,7 +79,7 @@
   "version": "1.0.1",
   "icon": "🔧",
   "author": "",
-  "channel": "QA",
+  "channel": "All",
   "type": "exe",
   "tech": "python-flask",
   "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/QAtoolPy.zip"
