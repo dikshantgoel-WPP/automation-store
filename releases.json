@@ -78,7 +78,7 @@
   "description": "QA tool for asset comparison, OCR, and Excel workflows.",
   "version": "1.0.1",
   "icon": "🔧",
-  "author": "Arnab Adhikary",
+  "author": "",
   "channel": "QA",
   "type": "exe",
   "tech": "python-flask",
