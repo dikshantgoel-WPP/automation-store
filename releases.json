@@ -76,12 +76,12 @@
   "id": "assetdiffstudio",
   "name": "AssetDiff Studio v10",
   "description": "QA tool for asset comparison, OCR, and Excel workflows.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "🔧",
   "author": "Arnab Adhikary",
   "channel": "QA",
   "type": "exe",
   "tech": "python-flask",
-  "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/AssetDiff_v10.zip"
+  "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/QAtoolPy.zip"
   }
 ]
