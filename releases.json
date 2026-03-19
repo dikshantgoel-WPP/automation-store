@@ -78,7 +78,7 @@
   "description": "QA tool for asset comparison, OCR, and Excel workflows.",
   "version": "1.0.1",
   "icon": "🔧",
-  "author": "",
+  "author": "Kishan Srivastava",
   "channel": "All",
   "type": "exe",
   "tech": "python-flask",
