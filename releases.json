@@ -74,7 +74,7 @@
   },
   {
   "id": "assetdiffstudio",
-  "name": "AssetDiff Studio v10",
+  "name": "Precision QA",
   "description": "QA tool for asset comparison, OCR, and Excel workflows.",
   "version": "1.0.1",
   "icon": "🔧",
