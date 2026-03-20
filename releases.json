@@ -83,5 +83,17 @@
   "type": "exe",
   "tech": "python-flask",
   "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/QAtoolPy.zip"
+  },
+  {
+  "id": "edetailanalyzer",
+  "name": "eDetail Analyzer",
+  "description": "eDetail package Optimizer",
+  "version": "1.0.0",
+  "icon": "🔧",
+  "author": "A Ganesan",
+  "channel": "eDA",
+  "type": "exe",
+  "tech": "python-flask",
+  "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/edetailAnalyzer.zip"
   }
 ]
