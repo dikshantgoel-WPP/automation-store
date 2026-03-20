@@ -76,7 +76,7 @@
   "id": "assetdiffstudio",
   "name": "Precision QA",
   "description": "QA tool for asset comparison, OCR, and Excel workflows.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icon": "🔧",
   "author": "Kishan Srivastava",
   "channel": "All",
