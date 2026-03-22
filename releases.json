@@ -86,7 +86,7 @@
   },
   {
   "id": "edetailanalyzer",
-  "name": "eDetail Analyzer",
+  "name": "eDetail Optimizer",
   "description": "eDetail package Optimizer",
   "version": "1.0.0",
   "icon": "🔧",
@@ -98,7 +98,7 @@
   },
   {
     "id": "smarteda",
-    "name": "Smart eDa",
+    "name": "Smart EDA",
     "description": "Process folders and map your call flow with ease and elegance",
     "version": "1.0.0",
     "icon": "🔧",
