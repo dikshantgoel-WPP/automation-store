@@ -95,5 +95,17 @@
   "type": "exe",
   "tech": "python-flask",
   "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/edetailAnalyzer.zip"
-  }
+  },
+  {
+    "id": "smarteda",
+    "name": "Smart eDa",
+    "description": "Process folders and map your call flow with ease and elegance",
+    "version": "1.0.0",
+    "icon": "🔧",
+    "author": "Arnab Adhikary",
+    "channel": "eDA",
+    "type": "website",
+    "tech": "Vite",
+    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/smarteda.zip"
+  },
 ]
