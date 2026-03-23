@@ -119,7 +119,8 @@
   },
   {
     "id": "thumbgenerator",
-    "name": "Generate Thumbs and Zips",
+    "name": "Thumb Generator",
+    "description":"Generate Thumbs and Zips"
     "version": "1.0.0",
     "production": false,
     "icon": "🔧",
