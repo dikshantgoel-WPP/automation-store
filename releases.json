@@ -116,5 +116,18 @@
     "type": "website",
     "tech": "Vite",
     "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/smarteda.zip"
+  },
+  {
+    "id": "thumbgenerator",
+    "name": "Generate Thumbs and Zips",
+    "version": "1.0.0",
+    "production": false,
+    "icon": "🔧",
+    "author": "Arnab Adhikary",
+    "channel": "eDA",
+    "type": "exe",
+    "tech": "Electron",
+    "launchMode": "external",
+    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/thumbGenerator.zip"
   }
 ]
