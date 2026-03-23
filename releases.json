@@ -29,14 +29,14 @@
     "id": "sfmcbuilder",
     "name": "Orbis",
     "description": "A no-code survey builder that lets you create professional, responsive surveys through intuitive drag-and-drop. Configure content visually and export flawless, device-ready HTML - no coding required.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "production": true,
     "icon": "⏀",
     "author": "Sushruth Iyenger",
     "channel": "Email",
     "type": "website",
     "tech": "Vite",
-    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/SFMC.Builder.zip"
+    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/sfmcbuilder.zip"
   },
   {
     "id": "pdfmaker",
