@@ -121,7 +121,7 @@
     "id": "thumbgenerator",
     "name": "Thumb Generator",
     "description":"Generate Thumbs and Zips",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "production": false,
     "icon": "🔧",
     "author": "Arnab Adhikary",
