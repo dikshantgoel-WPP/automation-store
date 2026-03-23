@@ -120,7 +120,7 @@
   {
     "id": "thumbgenerator",
     "name": "Thumb Generator",
-    "description":"Generate Thumbs and Zips"
+    "description":"Generate Thumbs and Zips",
     "version": "1.0.0",
     "production": false,
     "icon": "🔧",
