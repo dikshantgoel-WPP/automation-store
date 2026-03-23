@@ -123,7 +123,7 @@
     "description":"Automatically generate thumbnail images for each eDA slide and package them into a ready-to-deploy ZIP.",
     "version": "1.0.2",
     "production": false,
-    "icon": "⍝📦",
+    "icon": "📦",
     "author": "Arnab Adhikary",
     "channel": "eDA",
     "type": "exe",
