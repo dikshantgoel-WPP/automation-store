@@ -1,10 +1,10 @@
 [
   {
     "id": "imageconverter",
-    "name": "Image Converter",
+    "name": "WebPify",
     "description": "A utility designed to converting images between JPG, PNG, and WebP formats with ease.",
-    "version": "1.0.0",
-    "icon": "🔧",
+    "version": "1.0.1",
+    "icon": "🖼️",
     "author": "Arnab Adhikary",
     "channel": "Web",
     "type": "exe",
@@ -98,7 +98,7 @@
   },
   {
     "id": "smarteda",
-    "name": "Smart EDA",
+    "name": "Smart eDA",
     "description": "Process folders and map your call flow with ease and elegance",
     "version": "1.0.0",
     "icon": "🔧",
