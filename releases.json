@@ -95,7 +95,7 @@
   "id": "edetailanalyzer",
   "name": "eDAOptimizer",
   "description": "Clean up your code by removing unused images and optimizing existing ones for better performance.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "production": true,
   "icon": "✂",
   "author": "A Ganesan",
