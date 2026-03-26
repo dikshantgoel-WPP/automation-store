@@ -136,7 +136,7 @@
     "name": "Thumbnail Maker",
     "description": "Helps you generate video thumbnails",
     "version": "1.0.1",
-    "production": false,
+    "production": true,
     "icon": "🎬",
     "author": "",
     "channel": "Creative",
