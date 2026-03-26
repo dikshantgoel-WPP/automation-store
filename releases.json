@@ -135,7 +135,7 @@
     "id": "videoclmtool",
     "name": "VideoPack CLM",
     "description": "Convert videos into deployment-ready CLM packages with auto-generated thumbnails and poster images for seamless delivery.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "production": false,
     "icon": "🎬",
     "author": "",
