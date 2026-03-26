@@ -130,5 +130,18 @@
     "tech": "Electron",
     "launchMode": "external",
     "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/thumbGenerator.zip"
+  },
+  {
+    "id": "videoclmtool",
+    "name": "Video Thumbnail Maker",
+    "description": "Helps you generate video thumbnails",
+    "version": "1.0.0",
+    "production": false,
+    "icon": "⏅",
+    "author": "",
+    "channel": "Video",
+    "type": "website",
+    "tech": "Vite",
+    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/Campaign.Builder.zip"
   }
 ]
