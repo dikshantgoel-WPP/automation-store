@@ -133,9 +133,9 @@
   },
   {
     "id": "videoclmtool",
-    "name": "Thumbnail Maker",
-    "description": "Helps you generate video thumbnails",
-    "version": "1.0.1",
+    "name": "VideoPack CLM",
+    "description": "Convert videos into deployment-ready CLM packages with auto-generated thumbnails and poster images for seamless delivery.",
+    "version": "1.0.2",
     "production": false,
     "icon": "🎬",
     "author": "",
