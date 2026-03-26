@@ -135,13 +135,13 @@
     "id": "videoclmtool",
     "name": "VideoPack CLM",
     "description": "Convert videos into deployment-ready CLM packages with auto-generated thumbnails and poster images for seamless delivery.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "production": false,
     "icon": "🎬",
     "author": "",
     "channel": "Creative",
     "type": "website",
     "tech": "Vite",
-    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/videoclmtool.zip"
+    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/videoClmTool.zip"
   }
 ]
