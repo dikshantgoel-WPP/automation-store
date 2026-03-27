@@ -146,7 +146,7 @@
   },
   {
     "id": "videocomparisontool",
-    "name": "Video Comparisor",
+    "name": "Video Comparator",
     "description": "Compares input and output videos",
     "version": "1.0.0",
     "production": false,
