@@ -143,5 +143,18 @@
     "type": "website",
     "tech": "Vite",
     "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/videoClmTool.zip"
+  },
+  {
+    "id": "videocomparisontool",
+    "name": "Video Comparisor",
+    "description": "Compares input and output videos",
+    "version": "1.0.0",
+    "production": false,
+    "icon": "🎬",
+    "author": "Ankit Kumar",
+    "channel": "Creative",
+    "type": "website",
+    "tech": "Vite",
+    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/videocomparisontool.zip"
   }
 ]
