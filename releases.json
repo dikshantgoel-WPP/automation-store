@@ -3,14 +3,14 @@
     "id": "imageconverter",
     "name": "WebPify",
     "description": "A utility designed to converting images between JPG, PNG, and WebP formats with ease.",
-    "version": "1.0.1",
-    "production": true,
+    "version": "1.0.2",
+    "production": false,
     "icon": "🖼️",
     "author": "Arnab Adhikary",
     "channel": "Web",
     "type": "exe",
     "tech": "Tauri",
-    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/image-converter-tauri.exe"
+    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/image-converter-tauri.exe"
   },
   {
     "id": "campaignbuilder",
