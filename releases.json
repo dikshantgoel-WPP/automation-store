@@ -149,7 +149,7 @@
     "name": "Video Comparator",
     "description": "Compares input and output videos",
     "version": "1.0.0",
-    "production": false,
+    "production": true,
     "icon": "🎬",
     "author": "Ankit Kumar",
     "channel": "Creative",
