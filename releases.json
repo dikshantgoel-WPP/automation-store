@@ -4,7 +4,7 @@
     "name": "WebPify",
     "description": "A utility designed to converting images between JPG, PNG, and WebP formats with ease.",
     "version": "1.0.2",
-    "production": false,
+    "production": true,
     "icon": "🖼️",
     "author": "Arnab Adhikary",
     "channel": "Web",
