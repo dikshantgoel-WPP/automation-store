@@ -68,7 +68,7 @@
   "id": "presentationbuilder",
   "name": "iPDF Studio",
   "description": "Convert static PDFs into interactive presentations with clickable regions and visual storytelling.",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "production": true,
   "icon": "❴✎❵",
   "author": "Arnab Adhikary",
@@ -76,7 +76,7 @@
   "type": "exe",
   "tech": "Electron",
   "launchMode": "external",
-  "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/Presentation-Builder.zip"
+  "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/Presentation-BuilderV2.zip"
   },
   {
   "id": "assetdiffstudio",
