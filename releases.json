@@ -41,7 +41,7 @@
   {
     "id": "veevaextension",
     "name": "Veeva Extension",
-    "description": "Create ready to deliver PDF from your email HTML with precision and consistency.",
+    "description": "Download all slides and shared files at one go & Manage binder in finger tip",
     "version": "2.0.0",
     "production": true,
     "icon": "🧩",
