@@ -39,6 +39,19 @@
     "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/sfmcbuilder.zip"
   },
   {
+    "id": "veevaextension",
+    "name": "Veeva Extension",
+    "description": "Create ready to deliver PDF from your email HTML with precision and consistency.",
+    "version": "2.0.0",
+    "production": true,
+    "icon": "🧩",
+    "author": "Ashutosh, Suman Biswas",
+    "channel": "eDA",
+    "type": "oneview-extension",
+    "tech": "Js",
+    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/veeva.extension.zip"
+  },
+  {
     "id": "pdfmaker",
     "name": "MailRender",
     "description": "Create ready to deliver PDF from your email HTML with precision and consistency.",
