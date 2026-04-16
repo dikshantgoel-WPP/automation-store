@@ -41,7 +41,7 @@
   {
     "id": "veevaextension",
     "name": "Veeva Extension",
-    "description": "Download all slides and shared files at one go & Manage binder in finger tip.",
+    "description": "Download all slides and shared files in one go - and binder management at your fingertips.",
     "version": "2.0.0",
     "production": true,
     "icon": "🧩",
