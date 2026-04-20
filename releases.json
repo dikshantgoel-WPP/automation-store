@@ -43,7 +43,7 @@
     "name": "Veeva Extension",
     "description": "Download all slides and shared files in one go - and binder management at your fingertips.",
     "version": "2.0.0",
-    "production": true,
+    "production": false,
     "icon": "🧩",
     "author": "Ashutosh, Suman Biswas",
     "channel": "eDA",
