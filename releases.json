@@ -39,7 +39,7 @@
     "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/sfmcbuilder.zip"
   },
   {
-    "id": "veevaextension",
+    "id": "veevaextensionovx",
     "name": "Veeva Extension",
     "description": "Download all slides and shared files in one go - and binder management at your fingertips.",
     "version": "2.0.0",
@@ -49,7 +49,20 @@
     "channel": "eDA",
     "type": "oneview-extension",
     "tech": "Js",
-    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/veeva.extension.zip"
+    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/veeva-extension-ov.zip"
+  },
+   {
+    "id": "sitesnapovx",
+    "name": "SiteSnap Studio 5.5 Pro",
+    "description": "Download all slides and shared files in one go - and binder management at your fingertips.",
+    "version": "5.5.0",
+    "production": false,
+    "icon": "🧩",
+    "author": "Suman Biswas, Sharun",
+    "channel": "eDA",
+    "type": "oneview-extension",
+    "tech": "Js",
+    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/sitesnap-ov.zip"
   },
   {
     "id": "pdfmaker",
