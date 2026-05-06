@@ -1,5 +1,18 @@
 [
   {
+  "id": "webbanner",
+  "name": "Web Banner",
+  "description": "Build Web banners using this tool",
+  "version": "1.0.0",
+  "production": false,
+  "icon": "🎯",
+  "author": "Surrmay Srivastava",
+  "channel": "Web",
+  "type": "exe",
+  "tech": "python-flask",
+  "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/QAtoolPy.zip"
+  },
+  {
     "id": "nocodex",
     "name": "NoCodeX",
     "description": "Design, capture and export eDA presentation seamlessly.",
