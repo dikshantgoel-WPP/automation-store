@@ -43,7 +43,7 @@
     "id": "campaignbuilder",
     "name": "SyntaxFlow",
     "description": "Generates optimized queries for SFMC journeys, enabling precise audience targeting and seamless campaign execution.",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "production": false,
     "icon": "⏅",
     "author": "Sushruth Iyenger",
