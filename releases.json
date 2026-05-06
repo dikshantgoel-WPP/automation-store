@@ -23,6 +23,7 @@
     "channel": "eDA",
     "type": "exe",
     "tech": "custom",
+    "oneview-version": "1.2.0",
     "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/nocode-x-studio-oneview-setup.exe"
   },
   {
