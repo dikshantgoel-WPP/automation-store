@@ -1,5 +1,18 @@
 [
   {
+    "id": "nocodex",
+    "name": "NoCodeX",
+    "description": "Design, capture and export eDA presentation seamlessly.",
+    "version": "1.0.5",
+    "production": false,
+    "icon": "🖼️",
+    "author": "Suman Biswas",
+    "channel": "eDA",
+    "type": "exe",
+    "tech": "custom",
+    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/nocode-x-studio-oneview-setup.exe"
+  },
+  {
     "id": "imageconverter",
     "name": "WebPify",
     "description": "A utility designed to converting images between JPG, PNG, and WebP formats with ease.",
