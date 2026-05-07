@@ -69,7 +69,7 @@
     "id": "veevaextensionovx",
     "name": "Veeva Extension",
     "description": "Download all slides and shared files in one go - and binder management at your fingertips.",
-    "version": "2.0.1",
+    "version": "2.0.0",
     "production": false,
     "icon": "🧩",
     "author": "Ashutosh, Suman Biswas",
@@ -80,7 +80,7 @@
   },
    {
     "id": "sitesnapovx",
-    "name": "SiteSnap Studio 5.5 Pro",
+    "name": "SiteSnap Studio Pro",
     "description": "Download all slides and shared files in one go - and binder management at your fingertips.",
     "version": "5.5.0",
     "production": false,
