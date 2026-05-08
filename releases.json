@@ -1,11 +1,11 @@
 [
   {
   "id": "webbanner",
-  "name": "Web Banner",
-  "description": "Build Web banners using this tool",
+  "name": "BannerAnimate",
+  "description": "Convert editable PDFs to Animated Web banners within minutes.",
   "version": "1.1.0",
   "production": false,
-  "icon": "🎯",
+  "icon": "ႦᎯ",
   "author": "Surrmay Shrivastav",
   "channel": "Web",
   "type": "exe",
@@ -199,7 +199,7 @@
   },
   {
     "id": "videocomparisontool",
-    "name": "Video Comparator",
+    "name": "VideoQA",
     "description": "Compares input and output videos",
     "version": "1.0.0",
     "production": true,
