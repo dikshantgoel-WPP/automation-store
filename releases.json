@@ -4,7 +4,7 @@
   "name": "BannerAnimate",
   "description": "Convert editable PDFs to Animated Web banners within minutes.",
   "version": "1.1.0",
-  "production": false,
+  "production": true,
   "icon": "ႦᎯ",
   "author": "Surrmay Shrivastav",
   "channel": "Web",
