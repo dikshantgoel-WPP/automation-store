@@ -209,5 +209,18 @@
     "type": "website",
     "tech": "Vite",
     "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/videocomparisontool.zip"
+  },
+  {
+    "id": "mediastudio",
+    "name": "Media Studio",
+    "description": "A tool designed to convert images single and bulk and extracting images texts and other components from pdfs.",
+    "version": "1.0.3",
+    "production": false,
+    "icon": "🖼️",
+    "author": "Arnab Adhikary",
+    "channel": "All",
+    "type": "exe",
+    "tech": "Tauri",
+    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/image-converter-tauri-single.exe"
   }
 ]
