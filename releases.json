@@ -18,7 +18,7 @@
     "description": "This is a high-precision visual editor and live HTML studio designed to build, inspect, and refine professional eDA content with real-time DOM synchronization.",
     "version": "1.1.0",
     "production": true,
-    "icon": "ᒥ⯳ᒧ",
+    "icon": "⯳",
     "author": "Suman Biswas",
     "channel": "eDA",
     "type": "exe",
