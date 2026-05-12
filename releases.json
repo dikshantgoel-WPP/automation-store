@@ -214,7 +214,7 @@
     "id": "mediastudio",
     "name": "Media Studio",
     "description": "A tool designed to convert images single and bulk and extracting images texts and other components from pdfs.",
-    "version": "1.0.3",
+    "version": "0.0.1",
     "production": false,
     "icon": "🖼️",
     "author": "Arnab Adhikary",
