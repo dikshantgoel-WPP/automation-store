@@ -89,6 +89,7 @@
     "channel": "Web",
     "type": "oneview-extension",
     "tech": "Js",
+     "oneview-version": "1.2.5",
     "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/sitesnap-ov.zip"
   },
   {
