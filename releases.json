@@ -76,6 +76,7 @@
     "channel": "eDA",
     "type": "oneview-extension",
     "tech": "Js",
+    "oneview-version": "1.2.5",
     "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/veeva-extension-ov.zip"
   },
    {
