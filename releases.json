@@ -16,7 +16,7 @@
     "id": "nocodex",
     "name": "NoCodeX",
     "description": "This is a high-precision visual editor and live HTML studio designed to build, inspect, and refine professional eDA content with real-time DOM synchronization.",
-    "version": "1.1.2",
+    "version": "1.1.1",
     "production": true,
     "icon": "⯳",
     "author": "Suman Biswas",
