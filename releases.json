@@ -8,7 +8,7 @@
   "icon": "☐",
   "author": "Dikshant Goel",
   "channel": "eDA",
-  "type": "smartpixel-extension",
+  "type": "oneview-extension",
   "tech": "Js",
   "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/qrcode-ov-extension.zip"
   },
