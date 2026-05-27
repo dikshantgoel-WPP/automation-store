@@ -10,7 +10,8 @@
   "channel": "eDA",
   "type": "smartpixel-extension",
   "tech": "Js",
-  "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/webbanner.zip"
+  "oneview-version" : "1.2.5",
+  "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/qrcode-ov-extension.zip"
   },
   {
   "id": "webbanner",
