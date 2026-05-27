@@ -1,5 +1,18 @@
 [
   {
+  "id": "smartpixel",
+  "name": "SmartPixel",
+  "description": "Generate customisable QR with one click.",
+  "version": "1.0.0",
+  "production": false,
+  "icon": "☐",
+  "author": "Dikshant Goel",
+  "channel": "eDA",
+  "type": "smartpixel-extension",
+  "tech": "Js",
+  "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/webbanner.zip"
+  },
+  {
   "id": "webbanner",
   "name": "BannerAnimate",
   "description": "Convert editable PDFs to Animated Web banners within minutes.",
