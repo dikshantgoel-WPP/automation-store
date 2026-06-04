@@ -249,6 +249,7 @@
     "channel": "All",
     "type": "exe",
     "tech": "Tauri",
+    "systemWideInstall" : true,
     "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/EMpower.PDF_0.1.0_x64-setup.exe"
   }
 ]
