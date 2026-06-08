@@ -242,13 +242,13 @@
     "id": "empowerpdf",
     "name": "EMpower PDF",
     "description": "A tool built as a pdf reader to emulate all the activities one does in Acrobat",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "production": false,
     "icon": "🖼️",
     "author": "Arnab Adhikary",
     "channel": "All",
     "type": "exe",
     "tech": "Tauri",
-    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/EMpower.PDF_0.1.0_x64-setup.exe"
+    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/empower-pdf.exe"
   }
 ]
