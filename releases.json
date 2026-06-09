@@ -82,14 +82,14 @@
     "id": "veevaextensionovx",
     "name": "Veeva Extension",
     "description": "Download all slides and shared files in one go - and binder management at your fingertips.",
-    "version": "1.5.1",
+    "version": "1.5.2",
     "production": false,
     "icon": "Ꮴ",
     "author": "Ashutosh, Suman Biswas",
     "channel": "eDA",
     "type": "oneview-extension",
     "tech": "Js",
-    "oneview-version": "1.2.5",
+    "oneview-version": "1.2.6",
     "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/veeva-extension-ov.zip"
   },
    {
@@ -103,7 +103,7 @@
     "channel": "Web",
     "type": "oneview-extension",
     "tech": "Js",
-     "oneview-version": "1.2.5",
+     "oneview-version": "1.2.6",
     "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/sitesnap-ov.zip"
   },
   {
