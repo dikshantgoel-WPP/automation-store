@@ -57,7 +57,7 @@
     "name": "SyntaxFlow",
     "description": "Generates optimized queries for SFMC journeys, enabling precise audience targeting and seamless campaign execution.",
     "version": "1.0.7",
-    "production": false,
+    "production": true,
     "icon": "⏅",
     "author": "Sushruth Iyenger",
     "channel": "Email",
