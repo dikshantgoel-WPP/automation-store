@@ -23,7 +23,8 @@
   "channel": "Web",
   "type": "exe",
   "tech": "python-flask",
-  "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/webbanner.zip"
+  "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/webbanner.zip",
+  "oneview-version": "1.2.6"  
   },
   {
     "id": "nocodex",
