@@ -1,16 +1,19 @@
 [
   {
    "id": "2854",
-   "name": "Neerav Khatri"
+   "name": "Neerav Khatri",
+   "pass": "QC@WPP"
   },
   {
     "id": "3197",
-    "name": "Alok Verma"
+    "name": "Alok Verma",
+    "pass": "QC@WPP"
   },
   {
     "id": "2807",
     "name": "Ashutosh Mahapatra",
     "master": true,
-    "password": true
+    "password": false,
+    "pass": "DEV@WPP"
   }
 ]
