@@ -252,5 +252,19 @@
     "tech": "Tauri",
     "oneview-version": "1.2.5",
     "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/empower-pdf.exe"
+  },
+  {
+    "id": "nocodexepdfstudio",
+    "name": "NoCodeX ePDF Studio",
+    "description": "This is a high-precision editable PDF taking tool, which can automate taking screenshots and make the process smooth to a degree.",
+    "version": "0.0.1",
+    "production": false,
+    "icon": "⯳",
+    "author": "Suman Biswas",
+    "channel": "eDA",
+    "type": "exe",
+    "tech": "wails",
+    "oneview-version": "1.2.7",
+    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/htmltoepdf.exe"
   }
 ]
