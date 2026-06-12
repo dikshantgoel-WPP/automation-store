@@ -266,5 +266,18 @@
     "tech": "wails",
     "oneview-version": "1.2.7",
     "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/htmltoepdf.exe"
+  },
+   {
+    "id": "csvtool",
+    "name": "CSV Tool",
+    "description": "CSV tool.",
+    "version": "0.0.1",
+    "production": false,
+    "icon": "⏅",
+    "author": "Ashutosh Mahapatra",
+    "channel": "eDA",
+    "type": "website",
+    "tech": "Vite",
+    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/csv-tool.zip"
   }
 ]
