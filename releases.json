@@ -98,13 +98,13 @@
     "name": "SiteSnap Studio",
     "description": "Download all slides and shared files in one go - and binder management at your fingertips.",
     "version": "1.5.0",
-    "production": false,
+    "production": true,
     "icon": "ᏕᏕ",
     "author": "Suman Biswas, Sharun",
     "channel": "Web",
     "type": "oneview-extension",
     "tech": "Js",
-     "oneview-version": "1.2.5",
+     "oneview-version": "1.2.7",
     "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/sitesnap-ov.zip"
   },
   {
