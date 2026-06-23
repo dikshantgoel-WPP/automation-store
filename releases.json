@@ -22,7 +22,7 @@
   "author": "Surrmay Shrivastav",
   "channel": "Web",
   "type": "exe",
-  "tech": "Tauri",
+  "tech": "custom",
   "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/webbanner.zip",
   "oneview-version": "1.2.5"  
   },
