@@ -270,7 +270,7 @@
    {
     "id": "csvtool",
     "name": "CSV Tool",
-    "description": "CSV tool.",
+    "description": "Generates CSV file for Veeva Multichannel Loader to create and update eDA binders.",
     "version": "0.0.5",
     "production": true,
     "icon": "⏅",
