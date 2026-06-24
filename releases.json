@@ -272,7 +272,7 @@
     "name": "CSV Tool",
     "description": "CSV tool.",
     "version": "0.0.5",
-    "production": false,
+    "production": true,
     "icon": "⏅",
     "author": "Ashutosh Mahapatra",
     "channel": "eDA",
