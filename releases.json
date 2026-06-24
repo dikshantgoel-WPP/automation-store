@@ -257,7 +257,7 @@
     "id": "nocodexepdfstudio",
     "name": "NoCodeX ePDF Studio",
     "description": "This is a high-precision editable PDF taking tool, which can automate taking screenshots and make the process smooth to a degree.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "production": false,
     "icon": "⯳",
     "author": "Suman Biswas",
