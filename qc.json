@@ -18,7 +18,8 @@
     "id": "2874",
     "name": "Pratibhav Gupta",
     "pass": "QC@WPP",
-    "password": true
+    "password": true,
+    "master": true
   },
   {
     "id": "2807",
