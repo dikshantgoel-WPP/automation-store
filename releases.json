@@ -283,7 +283,7 @@
   },
   {
     "id": "nocodexetest",
-    "name": "NoCodeX Test",
+    "name": "NoCodeX-Test",
     "description": "This is a high-precision editable PDF taking tool, which can automate taking screenshots and make the process smooth to a degree.",
     "version": "0.0.1",
     "production": false,
