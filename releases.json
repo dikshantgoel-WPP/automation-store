@@ -243,7 +243,7 @@
     "id": "empowerpdf",
     "name": "EMpower PDF",
     "description": "A tool built as a pdf reader to emulate all the activities one does in Acrobat",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "production": false,
     "icon": "🖼️",
     "author": "Arnab Adhikary",
