@@ -111,13 +111,14 @@
     "id": "pdfmaker",
     "name": "MailRender",
     "description": "Create ready to deliver PDF from your email HTML with precision and consistency.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "production": false,
     "icon": "✉",
     "author": "Vepada Satish, Arnab Adhikary",
     "channel": "Email",
-    "type": "vite-server",
-    "tech": "Vite",
+    "type": "exe",
+    "tech": "Electron",
+    "launchMode": "external",
     "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/pdfmaker.zip"
   },
   {
