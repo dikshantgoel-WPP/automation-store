@@ -114,7 +114,7 @@
     "version": "1.0.3",
     "production": false,
     "icon": "✉",
-    "author": "Vepada Satish, Arnab Adhikary",
+    "author": "Vepada Satish",
     "channel": "Email",
     "type": "exe",
     "tech": "Electron",
