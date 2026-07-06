@@ -119,7 +119,7 @@
     "type": "exe",
     "tech": "Electron",
     "launchMode": "external",
-    "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/pdfmaker.zip"
+    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/pdfmaker.exe"
   },
   {
     "id": "emaillinkgenerator",
