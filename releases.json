@@ -67,6 +67,18 @@
     "releaseUrl": "https://github.com/sumanbiswas123/extensions/releases/download/store/Campaign.Builder.zip"
   },
   {
+    "id": "interactiveframework",
+    "name": "Interactive Framework",
+    "description": "Build Interactive tasks with ease",
+    "version": "0.0.1",
+    "production": true,
+    "icon": "⏅",
+    "author": "Sharun",
+    "channel": "Web",
+    "type": "website",
+    "tech": "Vite",
+    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/presentation.zip"
+  {
     "id": "sfmcbuilder",
     "name": "Orbis",
     "description": "A no-code survey builder that lets you create professional, responsive surveys through intuitive drag-and-drop. Configure content visually and export flawless, device-ready HTML - no coding required.",
