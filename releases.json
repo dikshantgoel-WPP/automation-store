@@ -25,7 +25,7 @@
   "tech": "Electron",
   "launchMode": "external",
   "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/webbanner.exe",
-  "oneview-version": "1.2.5"  
+  "oneview-version": "1.2.7"  
   },
   {
     "id": "nocodex",
