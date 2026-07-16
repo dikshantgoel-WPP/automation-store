@@ -140,7 +140,7 @@
     "name": "MailRender1",
     "description": "Create ready to deliver PDF from your email HTML with precision and consistency.",
     "version": "1.0.5",
-    "production": true,
+    "production": false,
     "icon": "✉",
     "author": "Vepada Satish",
     "channel": "Email",
