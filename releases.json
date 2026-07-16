@@ -135,6 +135,19 @@
     "launchMode": "external",
     "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/pdfmaker.exe"
   },
+    {
+    "id": "mailrender",
+    "name": "MailRender1",
+    "description": "Create ready to deliver PDF from your email HTML with precision and consistency.",
+    "version": "1.0.5",
+    "production": true,
+    "icon": "✉",
+    "author": "Vepada Satish",
+    "channel": "Email",
+    "type": "website",
+    "tech": "Vite",
+    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/mailrender.zip"
+  },
   {
     "id": "emaillinkgenerator",
     "name": "LinkBridge",
