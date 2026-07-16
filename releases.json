@@ -139,7 +139,7 @@
     "id": "mailrender",
     "name": "MailRender1",
     "description": "Create ready to deliver PDF from your email HTML with precision and consistency.",
-    "version": "1.0.7",
+    "version": "1.0.6",
     "production": false,
     "icon": "✉",
     "author": "Vepada Satish",
