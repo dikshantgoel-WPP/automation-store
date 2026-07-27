@@ -22,7 +22,7 @@
   "author": "Surrmay Shrivastav",
   "channel": "Web",
   "type": "exe",
-  "tech": "vite",
+  "tech": "electron",
   "launchMode": "external",
   "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/webbaner.exe",
   "oneview-version": "1.2.7"  
