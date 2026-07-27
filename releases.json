@@ -16,7 +16,7 @@
   "id": "webbanner",
   "name": "BannerAnimate",
   "description": "Convert editable PDFs to Animated Web banners within minutes.",
-  "version": "2.9.0",
+  "version": "3.0.0",
   "production": true,
   "icon": "ႦᎯ",
   "author": "Surrmay Shrivastav",
@@ -25,7 +25,7 @@
   "tech": "electron",
   "launchMode": "external",
   "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/webbaner.exe",
-  "oneview-version": "1.2.7"  
+  "oneview-version": "1.2.7"
   },
   {
     "id": "nocodex",
