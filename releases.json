@@ -107,6 +107,20 @@
     "oneview-version": "1.2.5",
     "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/veeva-extension-ov.zip"
   },
+  {
+    "id": "triagexovx",
+    "name": "TriageX",
+    "description": "Download all slides and shared files in one go - and binder management at your fingertips.",
+    "version": "1.5.2",
+    "production": true,
+    "icon": "Ꮴ",
+    "author": "Unknown",
+    "channel": "eDA",
+    "type": "oneview-extension",
+    "tech": "Js",
+    "oneview-version": "1.2.5",
+    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/TriageX_2.0.zip"
+  },
    {
     "id": "sitesnapovx",
     "name": "SiteSnap Studio",
