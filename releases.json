@@ -52,7 +52,7 @@
     "channel": "Web",
     "type": "exe",
     "tech": "Tauri",
-    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/image-converter-tauri.exe"
+    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/webpify.exe"
   },
   {
     "id": "campaignbuilder",
