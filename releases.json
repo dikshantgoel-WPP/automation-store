@@ -136,7 +136,7 @@
     "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/sitesnap-ov.zip"
   },
   {
-    "id": "pdfmaker",
+    "id": "mailrender",
     "name": "MailRender",
     "description": "Create ready to deliver PDF from your email HTML with precision and consistency.",
     "version": "1.0.4",
@@ -147,10 +147,10 @@
     "type": "exe",
     "tech": "Electron",
     "launchMode": "external",
-    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/pdfmaker.exe"
+    "releaseUrl": "https://github.com/dikshantgoel-WPP/automation-store/releases/download/store/mail-render.exe"
   },
     {
-    "id": "mailrender",
+    "id": "mailrender1",
     "name": "MailRender1",
     "description": "Create ready to deliver PDF from your email HTML with precision and consistency.",
     "version": "1.0.7",
